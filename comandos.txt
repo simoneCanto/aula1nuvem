@@ -1,0 +1,7 @@
+    1  echo " minha primeira mensagem em nuvem" > mensagem. txt
+    2  cat mensagem.txt
+    3  echo "minha primeira mensagem em nuvem" > mensagem.txt
+    4  echo "hello world" >> mensagem.txt
+    5  echo "feito pelo cloud shell" >> mensagem.txt
+    6  cat mensagem.txt
+    7  history > comandos.txt
